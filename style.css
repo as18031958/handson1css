@@ -1,0 +1,47 @@
+* {
+    color: red;
+}
+span{
+    font-weight: 900;
+}
+ol li{
+    color: red;
+}
+
+ul li{
+    color:rgb(189, 29, 29);
+    letter-spacing: 5px;
+}
+ul span{
+    font-weight: bold ;
+}
+.item-third{
+    text-decoration: line-through;
+}
+.item-fourth{
+    background-color: yellow;
+}
+#item-li{
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+.sixth{
+    background-color: yellow;
+}
+.one{
+    color: red;
+}
+.two{
+    color: red;
+}
+.three{
+    color: red;
+}
+a{
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+    background-color: yellow;
+}
